@@ -1,0 +1,131 @@
+.header
+{
+text-align: center;
+width:100%;
+padding:10px;
+background-color:rgb(245, 182, 159);
+}
+
+.main
+{
+background-color:rgb(245, 182, 159);
+}
+
+.logo
+{
+width:100%;
+}
+
+.content
+{
+    width:16%;
+}
+.content-buttons
+{
+    width:100%;
+    height:1150px;
+}
+.content-buttons p
+{
+    text-align:center;
+}
+
+.content a
+{
+    display:block;
+    text-decoration:none;
+    color:rgb(0, 0, 0);
+    border:none;
+    padding-left:10px;
+    padding-right:30px;
+    padding-top:15px;
+    padding-bottom:15px;
+    cursor:pointer;
+}
+
+.content a:hover
+{
+    opacity:0.8;
+    background-color:rgb(255, 0, 0);
+}
+
+.display
+{
+    width:50%;
+    background-color:#8bee87;
+    padding-left:50px;
+    padding-right:20px;
+    padding-bottom:20px;
+}
+
+.top-div
+{
+    margin-bottom:10px;
+    padding:10px;
+    height:60px;
+}
+
+.bt-1
+{
+    float: left;
+    display:block;
+    background-color: #fb7878;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 15px;
+    color:black;
+    cursor: pointer;
+}
+.bt-2
+{
+    float: right;
+    display:block;
+    font-size: 18px;
+    background-color: #fb7878;
+    color:black;
+    padding: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.bt-1:hover
+{
+    opacity: 1;
+    background-color: #F0FFFF;
+    color:black;
+}
+
+.bt-2:hover
+{
+    opacity: 1;
+    background-color: #F0FFFF;
+    color:black;
+}
+
+#information 
+{
+    width: 95%;
+    height: 100%;
+    display: block;
+    border: none;
+}
+
+.footer
+{
+    background-color: rgb(245, 182, 159);
+
+}
+
+.footer table
+{
+    width: 100%;
+}
+
+.footer td
+{
+    width:50%;
+    padding: 10px;
+    text-align: center;
+}
+
+
